@@ -6,10 +6,7 @@ description: "Professor Dr von Igelfeld's mailing and office addresses at the In
 
 ---
 
-
 ---
-
-#### Office address
 
 Cambridge, MA 02140
 United States
