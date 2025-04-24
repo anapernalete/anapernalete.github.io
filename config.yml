@@ -53,7 +53,7 @@ params:
     profileMode:
           enabled: true
           title: Ana Pernalete
-          subtitle: "Hi! I'm a software engineer with a focus on machine learning and data science. I'm currently pursuing my M.S. in Computer Science at the University of Colorado Boulder. This site is a space for my portfolio, technical blog, and end-to-end projects- spanning predictive modeling, model implementation, statistical analysis and data-driven insights, and applied mathematics. Feel free to explore my work or check out my resume."
+          subtitle: "Hi! I'm a software engineer with a focus on machine learning and data science. I'm currently pursuing my M.S. in Computer Science at the University of Colorado Boulder. This site is a space for my portfolio, technical blog, and end-to-end projects- spanning predictive modeling, model implementation, statistical analysis and data-driven insights. Feel free to explore my work or check out my resume."
           imageUrl: "ana.png"
           imageWidth: 160
           imageHeight: 160
