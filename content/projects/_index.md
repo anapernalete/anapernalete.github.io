@@ -26,6 +26,3 @@ This project is a full-stack e-commerce analytics platform built with **FastAPI*
 **Links**  
 - GitHub Repo: [E-Commerce Analytics API](https://github.com/anapernalete/ecommerce-analytics-api)  
 - API Docs: [https://ecommerce-analytics-api.onrender.com/docs](https://ecommerce-analytics-api.onrender.com/docs)
-
-[![GitHub Repo](https://img.shields.io/badge/View%20Code-GitHub-black?logo=github)](https://github.com/anapernalete/ecommerce-analytics-api)
-[![Live Demo](https://img.shields.io/badge/Launch-Demo-blue)](https://ecommerce-analytics-api.onrender.com/docs)
