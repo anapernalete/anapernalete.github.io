@@ -1,3 +1,12 @@
+{{ define "templates/schema_json.html" }}
+{{ end }}
+
+{{ define "templates/twitter_cards.html" }}
+{{ end }}
+
+{{ define "templates/opengraph.html" }}
+{{ end }}
+
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -133,9 +142,9 @@
     {{- end }}
 </noscript>
 
-{{- template "partials/templates/opengraph.html" . }}
-{{- template "partials/templates/twitter_cards.html" . }}
-{{- template "partials/templates/schema_json.html" . }}
+{{- template "templates/opengraph.html" . }}
+{{- template "templates/twitter_cards.html" . }}
+{{- template "templates/schema_json.html" . }}
 
 {{ if and (hugo.IsProduction) (.Site.Params.googleAnalyticsID) }}
 {{- partial "analytics.html" . }}
