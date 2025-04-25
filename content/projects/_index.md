@@ -32,4 +32,4 @@ This project is a full-stack e-commerce analytics platform built with **FastAPI*
 
 ## Live Demo
 
-<iframe src="https://your-streamlit-app-url.streamlit.app" width="100%" height="600px" frameborder="0"></iframe>
+<iframe src="https://ecommerce-analytics-api.streamlit.app" width="100%" height="600px" frameborder="0"></iframe>
