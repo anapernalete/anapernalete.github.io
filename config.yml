@@ -80,24 +80,24 @@ params:
           url: anapernaletecv.pdf
         - name: Email
           url: mailto:pernaleteanaflor@gmail.com
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
+#        - name: Zoom
+#          url: https://www.zoom.us/my/igelfeld
 #        - name: Location
 #          url: location/
 #        - name: Office Hours
 #          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+#        - name: Google Scholar
+#          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
         - name: GitHub
           url: https://github.com/anapernalete
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-        - name: Twitter
-          url: https://x.com/pmichaillat
-        - name: Bluesky
-          url: https://bsky.app/profile/anapernalete.bsky.social
+#        - name: Substack
+#          url: https://pmichaillat.substack.com
+#        - name: YouTube
+#          url: https://www.youtube.com/@pmichaillat
+#        - name: Twitter
+#          url: https://x.com/pmichaillat
+#        - name: Bluesky
+#          url: https://bsky.app/profile/anapernalete.bsky.social
 
     assets:
         disableScrollBarStyle: true
