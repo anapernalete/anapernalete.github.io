@@ -80,6 +80,8 @@ params:
           url: anapernaletecv.pdf
         - name: Email
           url: mailto:pernaleteanaflor@gmail.com
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/anapernalete/
 #        - name: Zoom
 #          url: https://www.zoom.us/my/igelfeld
 #        - name: Location
