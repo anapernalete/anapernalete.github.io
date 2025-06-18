@@ -16,7 +16,7 @@ menu:
 #          url: books/
 #          weight: 5 
         - name: Blog
-          url: papers/
+          url: blog/
           weight: 2
 #        - name: Courses
 #          url: courses/
@@ -44,7 +44,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["books","courses","blog","data"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -61,7 +61,7 @@ params:
           imageHeight: 160
           buttons:
             - name: Blog
-              url: papers/
+              url: blog/
 #            - name: Data
 #              url: data/
 #            - name: Books
