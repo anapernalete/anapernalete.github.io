@@ -55,7 +55,7 @@ params:
     profileMode:
           enabled: true
           title: Ana Pernalete
-          subtitle: "Data Scientist and Researcher building ML-powered solutions and AI applications with a focus on real-world usability."
+          subtitle: "Data Scientist and researcher building ML-powered solutions and AI applications with a focus on real-world usability and human centered solutions."
           imageUrl: "ana.png"
           imageWidth: 160
           imageHeight: 160
