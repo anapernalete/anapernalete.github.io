@@ -92,6 +92,8 @@ params:
 #          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
         - name: GitHub
           url: https://github.com/anapernalete
+        - name: Leetcode
+          url: https://leetcode.com/u/anapernalete/
 #        - name: Substack
 #          url: https://pmichaillat.substack.com
 #        - name: YouTube
