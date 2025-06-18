@@ -1,4 +1,4 @@
 ---
-title: "Blog"
+title: "blog"
 description: "Articles by Ana Pernalete."
 ---
