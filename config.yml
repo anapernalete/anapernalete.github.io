@@ -15,7 +15,7 @@ menu:
         - name: Books
           url: books/
           weight: 5 
-        - name: Papers
+        - name: Blog
           url: papers/
           weight: 2
         - name: Courses
@@ -60,7 +60,7 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
+            - name: Blog
               url: papers/
             - name: Data
               url: data/
