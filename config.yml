@@ -82,14 +82,6 @@ params:
           url: mailto:pernaleteanaflor@gmail.com
         - name: LinkedIn
           url: https://www.linkedin.com/in/anapernalete/
-#        - name: Zoom
-#          url: https://www.zoom.us/my/igelfeld
-#        - name: Location
-#          url: location/
-#        - name: Office Hours
-#          url: officehours/
-#        - name: Google Scholar
-#          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
         - name: GitHub
           url: https://github.com/anapernalete
         - name: Leetcode
@@ -104,6 +96,14 @@ params:
 #          url: https://x.com/pmichaillat
 #        - name: Bluesky
 #          url: https://bsky.app/profile/anapernalete.bsky.social
+#        - name: Zoom
+#          url: https://www.zoom.us/my/igelfeld
+#        - name: Location
+#          url: location/
+#        - name: Office Hours
+#          url: officehours/
+#        - name: Google Scholar
+#          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
 
     assets:
         disableScrollBarStyle: true
