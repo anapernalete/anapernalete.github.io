@@ -106,7 +106,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Ana Pernalete"
-      icon: favicon.ico
+      icon: imgb.png
       iconHeight: 18
 
 markup:
